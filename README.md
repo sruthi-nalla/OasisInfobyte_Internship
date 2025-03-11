@@ -5,7 +5,7 @@ This repository contains the tasks completed during my **Virtual Internship at O
 ## 📂 Internship Tasks:
 - **Task 1:** Iris Flower Classification using Machine Learning
 - **Task 2:** Unemployement Analysis with Python
-- **Task 2:** Car Price Prediction with Machine Learning
+- **Task 3:** Car Price Prediction with Machine Learning
 
 
 ### 🔧 Technologies Used:
